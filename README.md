@@ -6,10 +6,10 @@ This script demonstrates various data visualization techniques using a synthetic
 The code is divided into two main sections: Univariate Analysis and Bivariate Analysis.
 
 ### Libraries Used
-**- pandas:** For data manipulation and analysis.
-**- numpy:**   For generating synthetic data.
-**- matplotlib.pyplot:** For creating static, animated, and interactive visualizations in Python.
-**- seaborn:** For making statistical plots with enhanced aesthetics.
+** - pandas:** For data manipulation and analysis.
+** - numpy:**   For generating synthetic data.
+** - matplotlib.pyplot:** For creating static, animated, and interactive visualizations in Python.
+** - seaborn:** For making statistical plots with enhanced aesthetics.
 
 ### Dataset
 A synthetic dataset is created with the following columns:
