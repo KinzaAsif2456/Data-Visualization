@@ -44,3 +44,18 @@ Bivariate analysis involves examining the relationship between two variables. In
 
 Outliers are data points that are significantly different from the rest of the data. In this section, we introduce some outliers to the dataset and use box plots to detect them.
 - Box Plot for Outlier Detection: We create box plots for the 'age' and 'income' variables to detect outliers using Seaborn's boxplot function.
+- Scatter plots can be used to detect outliers by visualizing the data points that fall outside the normal range of the data. Outliers can be identified by looking for data points that are:
+ - Farthest from the center of the data
+ - Isolated from the rest of the data points
+ - Not following the overall pattern or trend of the data
+
+## Conclusion
+This script provides a comprehensive overview of various data visualization techniques. It helps in understanding distributions, relationships, and outliers in the dataset. Use these visualizations to gain insights into your data and make informed decisions based on the patterns and trends observed.
+
+## License
+
+This project is licensed under the MIT License
+
+## Contact
+
+If you have any questions, suggestions, or need help with using this project, please don't hesitate to reach out to me at [sweetykinzu2@gmail.com] 
